@@ -1,4 +1,4 @@
-# Walmart Performance Analysis
+# Walmart Performance Analysis - SQL
 
 <p align="center">
 <img src="https://github.com/SinaKeyhani/Walmart-Performance-Analysis/blob/main/walmart-logo-vector.png" alt="Project Image" width="500" height="400"/>
